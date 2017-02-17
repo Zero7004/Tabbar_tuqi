@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "68167AFD1CFEB84E00301D26"
-               BuildableName = "ProjectTabbar.app"
-               BlueprintName = "ProjectTabbar"
-               ReferencedContainer = "container:ProjectTabbar.xcodeproj">
+               BuildableName = "tuqiTabbar.app"
+               BlueprintName = "tuqiTabbar"
+               ReferencedContainer = "container:tuqiTabbar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,34 +28,14 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "68167B161CFEB84E00301D26"
-               BuildableName = "ProjectTabbarTests.xctest"
-               BlueprintName = "ProjectTabbarTests"
-               ReferencedContainer = "container:ProjectTabbar.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "68167B211CFEB84E00301D26"
-               BuildableName = "ProjectTabbarUITests.xctest"
-               BlueprintName = "ProjectTabbarUITests"
-               ReferencedContainer = "container:ProjectTabbar.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "68167AFD1CFEB84E00301D26"
-            BuildableName = "ProjectTabbar.app"
-            BlueprintName = "ProjectTabbar"
-            ReferencedContainer = "container:ProjectTabbar.xcodeproj">
+            BuildableName = "tuqiTabbar.app"
+            BlueprintName = "tuqiTabbar"
+            ReferencedContainer = "container:tuqiTabbar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "68167AFD1CFEB84E00301D26"
-            BuildableName = "ProjectTabbar.app"
-            BlueprintName = "ProjectTabbar"
-            ReferencedContainer = "container:ProjectTabbar.xcodeproj">
+            BuildableName = "tuqiTabbar.app"
+            BlueprintName = "tuqiTabbar"
+            ReferencedContainer = "container:tuqiTabbar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "68167AFD1CFEB84E00301D26"
-            BuildableName = "ProjectTabbar.app"
-            BlueprintName = "ProjectTabbar"
-            ReferencedContainer = "container:ProjectTabbar.xcodeproj">
+            BuildableName = "tuqiTabbar.app"
+            BlueprintName = "tuqiTabbar"
+            ReferencedContainer = "container:tuqiTabbar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

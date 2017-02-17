@@ -66,7 +66,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		68167AFE1CFEB84E00301D26 /* ProjectTabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectTabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68167AFE1CFEB84E00301D26 /* tuqiTabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tuqiTabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68167B021CFEB84E00301D26 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		68167B041CFEB84E00301D26 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		68167B051CFEB84E00301D26 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -76,10 +76,10 @@
 		68167B0D1CFEB84E00301D26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		68167B101CFEB84E00301D26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		68167B121CFEB84E00301D26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		68167B171CFEB84E00301D26 /* ProjectTabbarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectTabbarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		68167B171CFEB84E00301D26 /* tuqiTabbarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tuqiTabbarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68167B1B1CFEB84E00301D26 /* ProjectTabbarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProjectTabbarTests.m; sourceTree = "<group>"; };
 		68167B1D1CFEB84E00301D26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		68167B221CFEB84E00301D26 /* ProjectTabbarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectTabbarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		68167B221CFEB84E00301D26 /* tuqiTabbarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tuqiTabbarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68167B261CFEB84E00301D26 /* ProjectTabbarUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProjectTabbarUITests.m; sourceTree = "<group>"; };
 		68167B281CFEB84E00301D26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68167B341CFEB8D800301D26 /* LHHTabbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LHHTabbar.h; sourceTree = "<group>"; };
@@ -160,9 +160,9 @@
 		68167AFF1CFEB84E00301D26 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				68167AFE1CFEB84E00301D26 /* ProjectTabbar.app */,
-				68167B171CFEB84E00301D26 /* ProjectTabbarTests.xctest */,
-				68167B221CFEB84E00301D26 /* ProjectTabbarUITests.xctest */,
+				68167AFE1CFEB84E00301D26 /* tuqiTabbar.app */,
+				68167B171CFEB84E00301D26 /* tuqiTabbarTests.xctest */,
+				68167B221CFEB84E00301D26 /* tuqiTabbarUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -274,9 +274,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		68167AFD1CFEB84E00301D26 /* ProjectTabbar */ = {
+		68167AFD1CFEB84E00301D26 /* tuqiTabbar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 68167B2B1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "ProjectTabbar" */;
+			buildConfigurationList = 68167B2B1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "tuqiTabbar" */;
 			buildPhases = (
 				68167AFA1CFEB84E00301D26 /* Sources */,
 				68167AFB1CFEB84E00301D26 /* Frameworks */,
@@ -286,14 +286,14 @@
 			);
 			dependencies = (
 			);
-			name = ProjectTabbar;
+			name = tuqiTabbar;
 			productName = ProjectTabbar;
-			productReference = 68167AFE1CFEB84E00301D26 /* ProjectTabbar.app */;
+			productReference = 68167AFE1CFEB84E00301D26 /* tuqiTabbar.app */;
 			productType = "com.apple.product-type.application";
 		};
-		68167B161CFEB84E00301D26 /* ProjectTabbarTests */ = {
+		68167B161CFEB84E00301D26 /* tuqiTabbarTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 68167B2E1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "ProjectTabbarTests" */;
+			buildConfigurationList = 68167B2E1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "tuqiTabbarTests" */;
 			buildPhases = (
 				68167B131CFEB84E00301D26 /* Sources */,
 				68167B141CFEB84E00301D26 /* Frameworks */,
@@ -304,14 +304,14 @@
 			dependencies = (
 				68167B191CFEB84E00301D26 /* PBXTargetDependency */,
 			);
-			name = ProjectTabbarTests;
+			name = tuqiTabbarTests;
 			productName = ProjectTabbarTests;
-			productReference = 68167B171CFEB84E00301D26 /* ProjectTabbarTests.xctest */;
+			productReference = 68167B171CFEB84E00301D26 /* tuqiTabbarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		68167B211CFEB84E00301D26 /* ProjectTabbarUITests */ = {
+		68167B211CFEB84E00301D26 /* tuqiTabbarUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 68167B311CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "ProjectTabbarUITests" */;
+			buildConfigurationList = 68167B311CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "tuqiTabbarUITests" */;
 			buildPhases = (
 				68167B1E1CFEB84E00301D26 /* Sources */,
 				68167B1F1CFEB84E00301D26 /* Frameworks */,
@@ -322,9 +322,9 @@
 			dependencies = (
 				68167B241CFEB84E00301D26 /* PBXTargetDependency */,
 			);
-			name = ProjectTabbarUITests;
+			name = tuqiTabbarUITests;
 			productName = ProjectTabbarUITests;
-			productReference = 68167B221CFEB84E00301D26 /* ProjectTabbarUITests.xctest */;
+			productReference = 68167B221CFEB84E00301D26 /* tuqiTabbarUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -349,7 +349,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 68167AF91CFEB84E00301D26 /* Build configuration list for PBXProject "ProjectTabbar" */;
+			buildConfigurationList = 68167AF91CFEB84E00301D26 /* Build configuration list for PBXProject "tuqiTabbar" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -362,9 +362,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				68167AFD1CFEB84E00301D26 /* ProjectTabbar */,
-				68167B161CFEB84E00301D26 /* ProjectTabbarTests */,
-				68167B211CFEB84E00301D26 /* ProjectTabbarUITests */,
+				68167AFD1CFEB84E00301D26 /* tuqiTabbar */,
+				68167B161CFEB84E00301D26 /* tuqiTabbarTests */,
+				68167B211CFEB84E00301D26 /* tuqiTabbarUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -459,12 +459,12 @@
 /* Begin PBXTargetDependency section */
 		68167B191CFEB84E00301D26 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 68167AFD1CFEB84E00301D26 /* ProjectTabbar */;
+			target = 68167AFD1CFEB84E00301D26 /* tuqiTabbar */;
 			targetProxy = 68167B181CFEB84E00301D26 /* PBXContainerItemProxy */;
 		};
 		68167B241CFEB84E00301D26 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 68167AFD1CFEB84E00301D26 /* ProjectTabbar */;
+			target = 68167AFD1CFEB84E00301D26 /* tuqiTabbar */;
 			targetProxy = 68167B231CFEB84E00301D26 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -601,7 +601,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Codeliu.ProjectTabbarTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProjectTabbar.app/ProjectTabbar";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tuqiTabbar.app/tuqiTabbar";
 			};
 			name = Debug;
 		};
@@ -613,7 +613,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Codeliu.ProjectTabbarTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProjectTabbar.app/ProjectTabbar";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tuqiTabbar.app/tuqiTabbar";
 			};
 			name = Release;
 		};
@@ -642,7 +642,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		68167AF91CFEB84E00301D26 /* Build configuration list for PBXProject "ProjectTabbar" */ = {
+		68167AF91CFEB84E00301D26 /* Build configuration list for PBXProject "tuqiTabbar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				68167B291CFEB84E00301D26 /* Debug */,
@@ -651,29 +651,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		68167B2B1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "ProjectTabbar" */ = {
+		68167B2B1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "tuqiTabbar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				68167B2C1CFEB84E00301D26 /* Debug */,
 				68167B2D1CFEB84E00301D26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		68167B2E1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "ProjectTabbarTests" */ = {
+		68167B2E1CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "tuqiTabbarTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				68167B2F1CFEB84E00301D26 /* Debug */,
 				68167B301CFEB84E00301D26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		68167B311CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "ProjectTabbarUITests" */ = {
+		68167B311CFEB84E00301D26 /* Build configuration list for PBXNativeTarget "tuqiTabbarUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				68167B321CFEB84E00301D26 /* Debug */,
 				68167B331CFEB84E00301D26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
